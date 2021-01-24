@@ -25,7 +25,6 @@
 #
 #
 #
-#
 # Part II - VacationPy uses juypter-gmaps and the Google Places API to plan future vacations
 # A heat map displaying humidity for every city in Part I will be created
 # To find an ideal weather condition the following three conditions would exist:
@@ -35,12 +34,4 @@
 # Cities not meeting the criteria above will be dropped.
 # Google Places API is used to find the first hotel for each city located within 5000 meters of the coordinates. The hotels will be plotted on top of the humidity heatmap with each pin containing Hotel Name, City and Country.
 # 
-#
-# Part II Outcomes and Observations:
-#
-#
-#
-#
-#
-#
 #
