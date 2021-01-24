@@ -21,7 +21,7 @@
 # - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 #
 # Part I Outcomes and Observations:
-#
+# The analysis supports that there is a correlation between temperatures and latitude. Locations closer to the equator are warmer, and cooler the further away you are. There are not strong relationships between humidity, wind speed or cloudiness and latitude.
 #
 #
 #
