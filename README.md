@@ -21,8 +21,7 @@
 # - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 #
 # Part I Outcomes and Observations:
-#
-#
+# The analysis supports that there is a correlation between temperatures and latitude. Locations closer to the equator are warmer, and cooler the further away you are. There are not strong relationships between humidity, wind speed or cloudiness and latitude.
 #
 #
 #
@@ -35,12 +34,4 @@
 # Cities not meeting the criteria above will be dropped.
 # Google Places API is used to find the first hotel for each city located within 5000 meters of the coordinates. The hotels will be plotted on top of the humidity heatmap with each pin containing Hotel Name, City and Country.
 # 
-#
-# Part II Outcomes and Observations:
-#
-#
-#
-#
-#
-#
 #
